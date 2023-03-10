@@ -1,1 +1,3 @@
-# my-guitar-data-analysis-project
+# my-guitar-data-analysis-project-jovian
+
+This is my first ever project in python environment. As per project completion criteria we are going to learn much more things in python. In this project I will include all the topics which I have learned during this course. I will also share this with one who is new in this scenario and try to present it as good as possible because this will also helps me in future as a reword. Let me give you some introduction about this project, So I have decided to stick on this Guitar-Data-Analysis topic to get deeper into my musical hobby. by doing this project I will be able to explore more knowledge in my interesting area. I will take one dataset which is available in |kaggle| website and after downloading it make some analysis on it....
